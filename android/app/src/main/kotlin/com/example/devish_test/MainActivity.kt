@@ -1,0 +1,6 @@
+package com.example.devish_test
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
